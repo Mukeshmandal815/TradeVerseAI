@@ -2,12 +2,11 @@
 An Intelligent Web and Mobile Stock Exchange Platform with AI-Based Market Analysis and Virtual Trading
 # TradeVerse AI
  
-TradeVerse AI is a virtual/paper-trading platform for Nepal Stock Exchange
+TradeVerse AI is a virtua trading platform for Nepal Stock Exchange
 (NEPSE) listed companies. Users trade with simulated funds while an AI
 microservice explains short-term trend signals and financial-news sentiment.
  
-TradeVerse AI never processes real money and never presents AI output as
-guaranteed financial advice.
+
  
 ## Problem
 Learners rarely get a safe, realistic way to practise stock trading. Real
